@@ -1,0 +1,59 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+    background-color: #F9F5EB;
+
+}
+
+
+.holder {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+.columnas {
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: center;
+    background: #404053;
+    margin-top: 10px;
+
+    overflow: hidden;
+    padding: 20px;
+    border-radius: 10px 10px 10px 10px;
+    -moz-border-radius: 10px 10px 10px 10px;
+    -webkit-border-radius: 10px 10px 10px 10px;
+    border: 0px solid #000000;
+}
+
+.bienvenidos {
+    width: 100%;
+    padding-right: 10px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+.bienvenidos h2 {
+    text-align: center;
+}
+
+.bienvenidos p {
+    font-size: 20px;
+}
+
+/* .carousel-item {
+    background-position: center;
+    background-repeat: non-repeat;
+    background-size: cover;
+    object-fit: scale-down;
+    height: 50vh;
+    width: 100%;
+} */
+
+
+/* .carousel.slide#myCarousel {
+    background-color: #a59abd;
+} */
